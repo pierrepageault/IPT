@@ -1,2 +1,2 @@
 # IPT
-Ce dossier contient les documents relatifs au cour d'informatique pour tous (IPT).
+Ce dossier contient les documents relatifs au cours d'informatique pour tous (IPT).
